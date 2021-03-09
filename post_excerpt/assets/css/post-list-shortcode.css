@@ -1,0 +1,22 @@
+/*********************************************************************
+            Post List Short Code CSS
+*********************************************************************/
+.wedevs-pemsc-short-code-wrapper {
+    /* background-color: rgb(222, 223, 217); */
+}
+.wedevs-pemsc-single-post-view {
+    margin-bottom: 20px;
+    padding: 10px 30px;
+    box-shadow: 1px -2px 30px #80808061;
+}
+.wedevs-pemsc-post-status {
+    padding: 5px;
+    width: 100px;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 17px;
+    background-color: #4682b4ad;
+}
+.wedevs-pemsc-post-excerpt {
+    font-size: 14px;
+}

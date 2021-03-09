@@ -1,0 +1,13 @@
+{
+    "name": "hello/post_email_notification",
+    "description": "Post Email Notification",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "WeDevs\\PostExcerpt\\": "includes/"
+        },
+        "files": [ "includes/functions.php"]
+    },
+    "require": {}
+}
