@@ -69,9 +69,9 @@ class PostList
         $post_ids = isset( $this->atts['post_ids']) ? $this->atts['post_ids'] : $defaults['post_in'];
         $post_ids = explode( ',', $post_ids );
 
-        $total_number_of_posts  = isset($this->atts['post_num']) ? intval( $this->atts['post_num'] ) : $defaults['total_number_of_posts'];
-        $sort_by                = isset($this->atts['sort']) ? $this->atts['sort'] : $defaults['sort_by'];
-        $post_in                = isset($this->atts['post_ids']) ? $post_ids : $defaults['post_in'];
+        $total_number_of_posts  = isset( $this->atts['post_num'] ) ? intval( $this->atts['post_num'] ) : $defaults['total_number_of_posts'];
+        $sort_by                = isset( $this->atts['sort'] ) ? $this->atts['sort'] : $defaults['sort_by'];
+        $post_in                = isset( $this->atts['post_ids'] ) ? $post_ids : $defaults['post_in'];
 
         $args = array(
             'post_type'         => 'post',

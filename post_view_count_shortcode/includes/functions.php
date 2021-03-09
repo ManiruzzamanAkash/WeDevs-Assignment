@@ -11,7 +11,7 @@
  */
 function wedevs_pvcsc_get_post_view_count ( $id ) {
 
-    $count = 1;
+    $count           = 1;
     $post_view_count = get_post_meta( $id, 'post_view_count', true );
 
     if( empty( $post_view_count ) ) {

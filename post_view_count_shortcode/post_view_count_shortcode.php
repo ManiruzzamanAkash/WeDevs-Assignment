@@ -53,7 +53,7 @@ final class Post_View_Count_Short_Code {
      *
      * @return  \Post_View_Count_Short_Code
      */
-    public static function init () {
+    private static function init () {
         static $instance = false;
 
         if ( !$instance ) {
@@ -64,18 +64,22 @@ final class Post_View_Count_Short_Code {
     }
 
     /**
+     * Initialization of init ()
+     *
+     * @return \Post_View_Count_Short_Code
+     */
+    public static function setInit () {
+        self::init();
+    }
+
+    /**
      * Initialization of plugin
      *
      * @return void
      */
     public function init_plugin () {
         new WeDevs\PostViewCount\Assets();
-
-        if ( is_admin() ) {
-            new WeDevs\PostViewCount\Admin();
-        } else {
-            new WeDevs\PostViewCount\Frontend();
-        }
+        new WeDevs\PostViewCount\Frontend();
     }
 }
 
@@ -86,7 +90,7 @@ final class Post_View_Count_Short_Code {
  * @return \Post_View_Count_Short_Code
  */
 function Post_View_Count_Short_Code () {
-    return Post_View_Count_Short_Code::init();
+    return Post_View_Count_Short_Code::setInit();
 }
 
 /* start the plugin */
