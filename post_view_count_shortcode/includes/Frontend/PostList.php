@@ -62,11 +62,11 @@ class PostList
         $defaults = [
             'total_number_of_posts' => apply_filters( 'wedevs_pvcsc_total_post', 10 ),
             'sort_by'               => apply_filters( 'wedevs_pvcsc_sorting_by', 'desc' ),
-            'post_in'               => apply_filters( 'wedevs_pvcsc_post_ids', array() )
+            'post_in'               => apply_filters( 'wedevs_pvcsc_post_ids', '' )
         ];
 
         // Parse post_ids atts from shortcode input and make that an array
-        $post_ids = isset( $this->atts['post_ids']) ? sanitize_text_field( $this->atts['post_ids'] ) : $defaults['post_in'];
+        $post_ids = ( isset( $this->atts['post_ids']) && strlen( $this->atts['post_ids'] ) > 0 ) ? sanitize_text_field( trim( $this->atts['post_ids'] ) ) : $defaults['post_in'];
         $post_ids = explode( ',', $post_ids );
 
         $total_number_of_posts  = isset( $this->atts['post_num'] ) ? intval( $this->atts['post_num'] ) : $defaults['total_number_of_posts'];
