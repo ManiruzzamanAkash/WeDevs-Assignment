@@ -19,3 +19,11 @@ Post Excerpt Meta Box With Shortcode - https://github.com/ManiruzzamanAkash/WeDe
 
 ![Post Excerpt Meta Box Code Plugin](https://i.ibb.co/wdnJkFZ/Post-Excerpt-Plugin.png "Post Excerpt Meta Box Code Plugin")
 
+
+## Assignment 05-06
+Book Review Plugin - 
+
+**Demo** 
+
+![Book Review Plugin](https://i.ibb.co/9GJSLD3/Book-Review-Plugin.png "Book Review Plugin")
+
