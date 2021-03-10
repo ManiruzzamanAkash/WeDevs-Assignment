@@ -9,3 +9,5 @@
 hello.php
 index.php
 /vendor
+/query-monitor
+/redis-cache
