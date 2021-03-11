@@ -1,0 +1,12 @@
+/*********************************************************************
+            Latest Post Widget CSS
+*********************************************************************/
+.latest-post-widget-area .latest-post-single-widget {
+    padding-bottom: 5px;
+}
+
+.latest-post-single-widget a{
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: capitalize;
+}

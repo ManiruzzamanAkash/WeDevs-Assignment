@@ -27,3 +27,11 @@ Book Review Plugin -
 
 ![Book Review Plugin](https://i.ibb.co/9GJSLD3/Book-Review-Plugin.png "Book Review Plugin")
 
+
+## Assignment 07
+Latest Post Dashboard Widget Plugin - 
+
+**Demo** 
+
+![Latest Post Dashboard Widget Plugin](https://i.ibb.co/BgkGWn0/Plugin-Latest-Post-Widget.png "Latest Post Dashboard Widget Plugin")
+
