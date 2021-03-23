@@ -1,0 +1,297 @@
+# Copyright (C) 2020 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP ERP - Custom Field Builder 1.3.2\n"
+"Report-Msgid-Bugs-To: http://wperp.com/support/\n"
+"POT-Creation-Date: 2020-04-07 10:16:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: erp-field-builder.php:267 erp-field-builder.php:272 views/view.php:4
+msgid "Custom Field Builder"
+msgstr ""
+
+#: erp-field-builder.php:292
+msgid "There are duplicate fields, Please check."
+msgstr ""
+
+#: erp-field-builder.php:294
+msgid "Behance"
+msgstr ""
+
+#: erp-field-builder.php:295
+msgid "Dribbble"
+msgstr ""
+
+#: erp-field-builder.php:296
+msgid "Flickr"
+msgstr ""
+
+#: erp-field-builder.php:297
+msgid "Github"
+msgstr ""
+
+#: erp-field-builder.php:298
+msgid "Instagram"
+msgstr ""
+
+#: erp-field-builder.php:299
+msgid "Medium"
+msgstr ""
+
+#: erp-field-builder.php:300
+msgid "Pinterest"
+msgstr ""
+
+#: erp-field-builder.php:301
+msgid "Reddit"
+msgstr ""
+
+#: erp-field-builder.php:302
+msgid "Snapchat"
+msgstr ""
+
+#: erp-field-builder.php:303
+msgid "Tumblr"
+msgstr ""
+
+#: erp-field-builder.php:304
+msgid "Vine"
+msgstr ""
+
+#: erp-field-builder.php:305
+msgid "VK"
+msgstr ""
+
+#: erp-field-builder.php:306
+msgid "Whatsapp"
+msgstr ""
+
+#: erp-field-builder.php:829
+msgid "Employee"
+msgstr ""
+
+#: erp-field-builder.php:831 erp-field-builder.php:844
+#: erp-field-builder.php:856 erp-field-builder.php:872
+#: erp-field-builder.php:880
+msgid "Top Area"
+msgstr ""
+
+#: erp-field-builder.php:832 erp-field-builder.php:845
+#: erp-field-builder.php:857
+msgid "Basic Information"
+msgstr ""
+
+#: erp-field-builder.php:833
+msgid "Work Information"
+msgstr ""
+
+#: erp-field-builder.php:834
+msgid "Personal Information"
+msgstr ""
+
+#: erp-field-builder.php:835 erp-field-builder.php:850
+#: erp-field-builder.php:862 erp-field-builder.php:874
+#: erp-field-builder.php:882
+msgid "Bottom Area"
+msgstr ""
+
+#: erp-field-builder.php:842
+msgid "Contact"
+msgstr ""
+
+#: erp-field-builder.php:846 erp-field-builder.php:858
+msgid "Others Information"
+msgstr ""
+
+#: erp-field-builder.php:847 erp-field-builder.php:859
+msgid "Contact Group"
+msgstr ""
+
+#: erp-field-builder.php:848 erp-field-builder.php:860
+msgid "Additional Information"
+msgstr ""
+
+#: erp-field-builder.php:849 erp-field-builder.php:861
+msgid "Social Profile"
+msgstr ""
+
+#: erp-field-builder.php:854
+msgid "Company"
+msgstr ""
+
+#: erp-field-builder.php:870
+msgid "Customer"
+msgstr ""
+
+#: erp-field-builder.php:873 erp-field-builder.php:881
+msgid "Middle Area"
+msgstr ""
+
+#: erp-field-builder.php:878
+msgid "Vendor"
+msgstr ""
+
+#: erp-field-builder.php:1529
+msgid "- Select -"
+msgstr ""
+
+#: erp-field-builder.php:1632
+msgid "is"
+msgstr ""
+
+#: erp-field-builder.php:1633
+msgid "is not"
+msgstr ""
+
+#: erp-field-builder.php:1634
+msgid "contains"
+msgstr ""
+
+#: erp-field-builder.php:1635
+msgid "not contains"
+msgstr ""
+
+#: erp-field-builder.php:1636
+msgid "begins with"
+msgstr ""
+
+#: erp-field-builder.php:1637
+msgid "ends with"
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:96
+msgid "Invalid resource id."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:199
+msgid "Unique identifier for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:205
+msgid "People id for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:214
+msgid "People name for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:223
+msgid "Voucher no for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:230
+msgid "Amount for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:238
+msgid "Transaction date for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:246
+msgid "payment method of the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:252
+msgid "Voucher type of the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:260
+msgid "Particulers for the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:268
+msgid "Debit of the resource."
+msgstr ""
+
+#: includes/api/class-rest-api-field-builder.php:276
+msgid "Credit of the resource."
+msgstr ""
+
+#: views/view.php:8
+msgid "Saved Changes."
+msgstr ""
+
+#: views/view.php:53
+msgid "Add New Field"
+msgstr ""
+
+#: views/view.php:69
+msgid "Save Fields"
+msgstr ""
+
+#: views/view.php:76
+msgid "Save Changes"
+msgstr ""
+
+#: views/view.php:146 views/view.php:148
+msgid "Label"
+msgstr ""
+
+#: views/view.php:153
+msgid "Meta Key"
+msgstr ""
+
+#: views/view.php:160
+msgid "Required"
+msgstr ""
+
+#: views/view.php:164
+msgid "Check if required"
+msgstr ""
+
+#: views/view.php:171
+msgid "Section"
+msgstr ""
+
+#: views/view.php:175
+msgid "Choose Section"
+msgstr ""
+
+#: views/view.php:184
+msgid "Icon"
+msgstr ""
+
+#: views/view.php:196
+msgid "Field Type"
+msgstr ""
+
+#: views/view.php:223
+msgid "Placeholder"
+msgstr ""
+
+#: views/view.php:230
+msgid "Help Text"
+msgstr ""
+
+#: views/view.php:238
+msgid "Done"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP ERP - Custom Field Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wperp.com/downloads/custom-field-builder/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds extra custom fields to employee, contacts, companies and other people "
+"types"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wedevs.com"
+msgstr ""

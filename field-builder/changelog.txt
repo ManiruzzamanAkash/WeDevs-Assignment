@@ -1,0 +1,39 @@
+= v1.3.2 = ( 7 April, 2020 )
+--------------------------
+- [fix] Added Filter The Custom Field Data In Contacts/company
+- [fix] Fixed top & bottom field value showing issue at profile page
+- [fix] Fixed apostrophe (') issue on the label
+
+= v1.3.1 ( 16 October, 2019 ) =
+--------------------------
+- [fix] Custom fields doesn't display from single view edit
+
+= v1.3.0 ( 24 September, 2019 ) =
+--------------------------
+- [new] Compatible with new accounting
+
+= v1.2.0 ( 30 October, 2018 ) =
+--------------------------
+- [new] Add custom fields to accounting module
+- [fix] Section selections now showing correctly
+- [fix] Date field are not showing saved date
+- [fix] Showing checkbox value
+- [fix] Checkbox field values are not saving
+- [tweak] Field builder menu moved under new ERP menu
+
+= v1.1.1 ( 26 July, 2016 ) =
+--------------------------
+- [tweak] Load scripts in specific pages
+- [fix] Make sure field settings are array before merge while import/export
+- [fix] Refactor codes to use single field print function
+- [fix] Fix showing checkbox value.
+- [fix] Print meta value with type
+- [fix] Date field was not showing saved date
+
+= v1.1.0 (29 December, 2016) =
+--------------------------
+- [new] Created form html generator function for hrm and crm individually
+- [new] Applied filter to erp field builder people types
+- [fix] Section selections now show correctly
+- [fix] JSON.parse null parameter error
+- [delete] Remove save contact hook

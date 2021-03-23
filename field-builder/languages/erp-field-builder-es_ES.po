@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wperp.com/support/\n"
+"POT-Creation-Date: 2017-04-27 08:03:00+00:00\n"
+"PO-Revision-Date: 2017-08-21 23:24-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: erp-field-builder.php:220 views/view.php:4
+msgid "Custom Field Builder"
+msgstr "Generador de campo personalizado"
+
+#: erp-field-builder.php:239
+msgid "There are duplicate fields, Please check."
+msgstr "Hay campos duplicados, por favor, consulte."
+
+#: erp-field-builder.php:241
+msgid "Behance"
+msgstr "Behance"
+
+#: erp-field-builder.php:242
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: erp-field-builder.php:243
+msgid "Flickr"
+msgstr "Flickr"
+
+#: erp-field-builder.php:244
+msgid "Github"
+msgstr "Github"
+
+#: erp-field-builder.php:245
+msgid "Instagram"
+msgstr "Instagram"
+
+#: erp-field-builder.php:246
+msgid "Medium"
+msgstr "Mediano"
+
+#: erp-field-builder.php:247
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: erp-field-builder.php:248
+msgid "Reddit"
+msgstr "Reddit"
+
+#: erp-field-builder.php:249
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: erp-field-builder.php:250
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: erp-field-builder.php:251
+msgid "Vine"
+msgstr "Vine"
+
+#: erp-field-builder.php:252
+msgid "VK"
+msgstr "VK"
+
+#: erp-field-builder.php:253
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: erp-field-builder.php:762
+msgid "Employee"
+msgstr "Empleado"
+
+#: erp-field-builder.php:764 erp-field-builder.php:777
+#: erp-field-builder.php:789
+msgid "Top Area"
+msgstr "Zona superior"
+
+#: erp-field-builder.php:765 erp-field-builder.php:778
+#: erp-field-builder.php:790
+msgid "Basic Information"
+msgstr "Información Básica"
+
+#: erp-field-builder.php:766
+msgid "Work Information"
+msgstr "Experiencia Laboral"
+
+#: erp-field-builder.php:767
+msgid "Personal Information"
+msgstr "Información Personal"
+
+#: erp-field-builder.php:768 erp-field-builder.php:783
+#: erp-field-builder.php:795
+msgid "Bottom Area"
+msgstr "Área inferior"
+
+#: erp-field-builder.php:775
+msgid "Contact"
+msgstr "Contacto"
+
+#: erp-field-builder.php:779 erp-field-builder.php:791
+msgid "Others Information"
+msgstr "Otros informaci&oacute;n"
+
+#: erp-field-builder.php:780 erp-field-builder.php:792
+msgid "Contact Group"
+msgstr "Grupo de Contacto"
+
+#: erp-field-builder.php:781 erp-field-builder.php:793
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: erp-field-builder.php:782 erp-field-builder.php:794
+msgid "Social Profile"
+msgstr "Perfil social"
+
+#: erp-field-builder.php:787
+msgid "Company"
+msgstr "Empresa"
+
+#: views/view.php:8
+msgid "Saved Changes."
+msgstr "Guardar cambios."
+
+#: views/view.php:53
+msgid "Add New Field"
+msgstr "Añadir nuevo campo"
+
+#: views/view.php:69
+msgid "Save Fields"
+msgstr "Guardar campos"
+
+#: views/view.php:76
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: views/view.php:146 views/view.php:148
+msgid "Label"
+msgstr "Etiqueta"
+
+#: views/view.php:153
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: views/view.php:160
+msgid "Required"
+msgstr "Necesario"
+
+#: views/view.php:164
+msgid "Check if required"
+msgstr "Si es necesario"
+
+#: views/view.php:171
+msgid "Section"
+msgstr "Sección"
+
+#: views/view.php:175
+msgid "Choose Section"
+msgstr "Elegir sección"
+
+#: views/view.php:184
+msgid "Icon"
+msgstr "Icono"
+
+#: views/view.php:196
+msgid "Field Type"
+msgstr "Tipo de Campo"
+
+#: views/view.php:223
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: views/view.php:230
+msgid "Help Text"
+msgstr "Texto de Ayuda"
+
+#: views/view.php:238
+msgid "Done"
+msgstr "Hecho"
+
+#. Plugin Name of the plugin/theme
+msgid "WP ERP - Custom Field Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wperp.com/downloads/custom-field-builder/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds extra custom fields to employee, contacts, companies and other people types"
+msgstr "Añade campos adicionales personalizados para empleados, contactos, empresas y otros tipos de personas"
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wedevs.com"
+msgstr ""

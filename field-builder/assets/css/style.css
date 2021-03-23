@@ -1,0 +1,179 @@
+/* WP ERP People Styles */
+
+#people-field-parent {
+    width: 100%;
+
+}
+
+.single-field {
+    margin-bottom: 10px;
+}
+
+.save-fields-postbox {
+
+}
+
+.save-button-spinner {
+    text-align: left;
+}
+
+#save-major {
+    clear: both;
+    padding: 10px;
+    background: #f5f5f5;
+}
+
+
+
+/* main view */
+.main-people-single {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.main-people-single :hover {
+    background-color: #eee;
+}
+
+.main-inside {
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.main-label {
+    width: 25%;
+    float: left;
+    font-weight: bold;
+}
+
+.main-helptext {
+    margin-left: 15px;
+    font-style: italic;
+    color: seagreen;
+}
+
+.main-child-options {
+    margin-right: 15px;
+}
+
+
+
+/* Extended view */
+
+.extended-people-single {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+}
+
+.extended-inside {
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.extended-inside-single {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.extended-label {
+    min-width: 25%;
+    float: left;
+    font-weight: bold;
+}
+
+.extended-child-options {
+    margin-left: 25%;
+}
+
+.button-edit {
+    float: right;
+}
+
+.button-done-container {
+    background-color: #f5f5f5;
+    text-align: right;
+    padding: 10px 10px 10px 0px;
+    border-top: 1px solid #e5e5e5;
+    overflow-y: hidden;
+}
+
+.button-done {
+    margin-bottom: 15px;
+}
+
+.button-delete {
+    float: right;
+}
+
+.extended-inside {
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.required-asterisk {
+    color: red;
+}
+
+.meta-key-enable{
+    pointer-events:none;
+    tab-index:-1;
+}
+
+
+.extended-button-holder {
+}
+
+
+.extended-button {
+
+}
+
+
+/*
+Buttons
+ */
+
+.extended-button-holder .btn {
+    background: white;
+    -webkit-border-radius: 3;
+    -moz-border-radius: 3;
+    border-radius: 0;
+    color: #999;
+    padding: 3px 3px 3px 3px;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    margin-top: -1px;
+    margin-right: -1px;
+}
+
+.extended-button-holder .btn:hover {
+  color: #FF9900;
+}
+
+input, textarea {
+    box-shadow: none;
+    border: 1px solid #ccc;
+}
+
+/*Transition */
+
+.main-single-transition{
+    /*transition: all .1s linear;*/
+}
+
+.main-single-enter, .main-single-leave{
+    /*max-height: 0px;*/
+}
+
+#notice-save-success{
+    display: none;
+}
+
+

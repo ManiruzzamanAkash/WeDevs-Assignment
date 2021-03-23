@@ -1,0 +1,1 @@
+{"version":3,"sources":["admin.css"],"names":[],"mappings":"AACA,+BACE,qBACF","file":"admin.css","sourcesContent":["\n.cfb-fields input[type=number] {\n  height: auto !important;\n}\n"]}

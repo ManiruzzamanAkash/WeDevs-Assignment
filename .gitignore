@@ -1,5 +1,4 @@
 /akismet
-/erp
 /erp-pdf-invoice
 /test-plugin
 /wedevs_academy
@@ -11,3 +10,4 @@ index.php
 /vendor
 /query-monitor
 /redis-cache
+/basic-auth
